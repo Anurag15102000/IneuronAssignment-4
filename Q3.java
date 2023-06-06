@@ -3,8 +3,7 @@ class Q3
 {  
    public static void main(String args[])  
    {  
-      String original, reverse = ""; 
-      Scanner in = new Scanner(System.in);     
+      String original, reverse = "";     
       original ="2552";   
       int length = original.length();   
       for ( int i = length - 1; i >= 0; i-- )  
