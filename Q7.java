@@ -11,7 +11,7 @@ public static boolean areCharactersUnique(String str) {
 }
 
 public static void main(String[] args) {
-	String s = "aaabbccdaa";
+	String s = "flower";
 	if (areCharactersUnique(s))
 	System.out.println("Yes");
 	else
